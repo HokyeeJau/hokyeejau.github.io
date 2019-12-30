@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# 2019年金希澈年终报告
+By 想打想流KimHeeChul翻译组
 
-You can use the [editor on GitHub](https://github.com/HokyeeJau/hokyeejau.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###主要介绍内容
+* 节目介绍
+* 节目收视统计
+* 个人品牌评价总结
+* 广告 & 宣传大使
+* 每月新闻报表
+* 节目网盘转存
+* 特制铃声转存
+* 其他
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HokyeeJau/hokyeejau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+####节目介绍
+#####长期MC
+|节目名称        |韩文              |MC                                    |时间                     |
+|:--------------|:----------------|:----------------------------------------------------------|:-----------------------|
+|认识的哥哥       |아는 형님          |강호동,서장훈,김영철,이수근,김희철,민경훈,이상민                       |JTBC 2015.12.05. ~      |
+|我们家的熊孩子   ｜미운 우리 새끼      |신동엽,서장훈,김건모,박수홍,토니안,이상민,김종국,홍진영,김희철,이선민,...   |SBS 2016.08.26. ~       |
+|希澈家神童的PC房 ｜희철이네 신동한 PC방 |김희철, 신동,...                                              |YouTube 2019.10.24 ~    |
+|美味的广场      ｜맛남의 광장        |백종원,양세형,김희철,김동준                                        |SBS 2019.12.05. ~       |
+#####短期MC
+#####试播MC
+#####嘉宾
+#####客串
+’微博:想打想流KimHeeChul翻译组‘ ’[微博主页](https://weibo.com/u/6205417173?sudaref=www.baidu.com&display=0&retcode=6102)’
