@@ -77,7 +77,7 @@ By 想打想流KimHeeChul翻译组
 |脑fficial |뇌피셜 |YouTube 2019.11.07. |
 
 ### 2. 节目收视统计
-
+![Image](https://github.com/xdxl-khc/Summary2019/blob/master/%E8%AE%A4%E8%AF%86%E7%9A%84%E5%93%A5%E5%93%A5.png)
 
 
 网页制作:想打想流KimHeeChul翻译组
