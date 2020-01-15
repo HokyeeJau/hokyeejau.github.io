@@ -1,7 +1,6 @@
 # 2019年金希澈年终报告
 By 想打想流KimHeeChul翻译组
 
-![6-way](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/6%E6%96%B9%E4%BC%9A%E8%B0%88.png)
 ## 主要介绍内容
 1. 节目介绍
 2. 节目收视统计
@@ -80,60 +79,60 @@ By 想打想流KimHeeChul翻译组
 ### 2. 节目收视统计
 #### 2.1 认识的哥哥
 
-![Knwon Brothers](https://github.com/xdxl-khc/Summary2019/blob/master/%E8%AE%A4%E8%AF%86%E7%9A%84%E5%93%A5%E5%93%A5.png)
+![Knwon Brothers](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/%E8%AE%A4%E8%AF%86%E7%9A%84%E5%93%A5%E5%93%A5.png)
 
 #### 2.2 人生酒馆
 
-![Life Bar](https://github.com/xdxl-khc/Summary2019/blob/master/%E4%BA%BA%E7%94%9F%E9%85%92%E9%A6%86.png)
+![Life Bar](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/%E4%BA%BA%E7%94%9F%E9%85%92%E9%A6%86.png)
 
 #### 2.3 独族App
 
-![Alone App](https://github.com/xdxl-khc/Summary2019/blob/master/%E7%8B%AC%E6%97%8FApp.png)
+![Alone App](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/%E7%8B%AC%E6%97%8FApp.png)
 
 #### 2.4 我们家的熊孩子
 
-![The Ugly Duckling](https://github.com/xdxl-khc/Summary2019/blob/master/%E6%88%91%E4%BB%AC%E5%AE%B6%E7%9A%84%E7%86%8A%E5%AD%A9%E5%AD%90.png)
+![The Ugly Duckling](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E6%88%91%E4%BB%AC%E5%AE%B6%E7%9A%84%E7%86%8A%E5%AD%A9%E5%AD%90.png)
 
 #### 2.5 白钟元的神秘厨房
 
-![The Mistory Kitchen of Mr. Beak](https://github.com/xdxl-khc/Summary2019/blob/master/%E7%99%BD%E9%92%9F%E5%85%83%E7%9A%84%E7%A5%9E%E7%A7%98%E5%8E%A8%E6%88%BF.png)
+![The Mistory Kitchen of Mr. Beak](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E7%99%BD%E9%92%9F%E5%85%83%E7%9A%84%E7%A5%9E%E7%A7%98%E5%8E%A8%E6%88%BF.png)
 
 #### 2.6 给狗粮的男人
 
-![Dog Papa](https://github.com/xdxl-khc/Summary2019/blob/master/%E7%BB%99%E7%8B%97%E7%B2%AE%E7%9A%84%E7%94%B7%E4%BA%BA.png)
+![Dog Papa](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E7%BB%99%E7%8B%97%E7%B2%AE%E7%9A%84%E7%94%B7%E4%BA%BA.png)
 
 #### 2.7 工作室
 
-![Office](https://github.com/xdxl-khc/Summary2019/blob/master/%E5%B7%A5%E4%BD%9C%E5%AE%A4.png)
+![Office](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E5%B7%A5%E4%BD%9C%E5%AE%A4.png)
 
 #### 2.8 美味的广场
 
-![Tasty Square](https://github.com/xdxl-khc/Summary2019/blob/master/%E7%BE%8E%E5%91%B3%E7%9A%84%E5%B9%BF%E5%9C%BA.png)
+![Tasty Square](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E7%BE%8E%E5%91%B3%E7%9A%84%E5%B9%BF%E5%9C%BA.png)
 
 #### 2.9 6方会谈
 
-![6-way Talk](https://github.com/xdxl-khc/Summary2019/blob/master/6%E6%96%B9%E4%BC%9A%E8%B0%88.png)
+![6-way Talk](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/6%E6%96%B9%E4%BC%9A%E8%B0%88.png)
 
 #### 2.11 我女儿的男人们4
 
-![My Daughter's Men](https://github.com/xdxl-khc/Summary2019/blob/master/%E6%88%91%E5%A5%B3%E5%84%BF%E7%9A%84%E7%94%B7%E4%BA%BA%E4%BB%AC4.png)
+![My Daughter's Men](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E6%88%91%E5%A5%B3%E5%84%BF%E7%9A%84%E7%94%B7%E4%BA%BA%E4%BB%AC4.png)
 
 #### 2.12 周日取向狙击(为什么来我家)
 
-![Why Came to My House](https://github.com/xdxl-khc/Summary2019/blob/master/%E5%91%A8%E6%97%A5%E5%8F%96%E5%90%91%E7%8B%99%E5%87%BB(%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%A5%E6%88%91%E5%AE%B6).png)
+![Why Came to My House](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E5%91%A8%E6%97%A5%E5%8F%96%E5%90%91%E7%8B%99%E5%87%BB(%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%A5%E6%88%91%E5%AE%B6).png)
 
 #### 2.13 Somevival 1+1
 
-![Somevival 1+1](https://github.com/xdxl-khc/Summary2019/blob/master/Somevival1%2B1.png)
+![Somevival 1+1](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/Somevival1%2B1.png)
 
 ### 3. 品牌评价总结
 #### 3.1 个人品牌排名
 
-![Personal](https://github.com/xdxl-khc/Summary2019/blob/master/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
+![Personal](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
 
 #### 3.2 综艺品牌排名
 
-![Variety](https://github.com/xdxl-khc/Summary2019/blob/master/%E7%BB%BC%E8%89%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
+![Variety](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E7%BB%BC%E8%89%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
 
 ### 4. 广告 & 宣传大使
 _此处为2019年开始代言的_
