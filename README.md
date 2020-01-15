@@ -132,7 +132,7 @@ By 想打想流KimHeeChul翻译组
 ### 3. 品牌评价总结
 #### 3.1 个人品牌排名
 
-![Personal](https://raw.githubusercontent.com/xdxl-khc/Summary2019/blob/master/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
+![Personal](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%8E%92%E5%90%8D.png)
 
 #### 3.2 综艺品牌排名
 
@@ -158,51 +158,51 @@ _此处为2019年开始代言的_
 
 #### 5.1 2019年1月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-01.png)
+![2019-01](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-01.png)
 
 #### 5.2 2019年2月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-02.png)
+![2019-02](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-02.png)
 
 #### 5.3 2019年3月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-03.png)
+![2019-03](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-03.png)
 
 #### 5.4 2019年4月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-04.png)
+![2019-04](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-04.png)
 
 #### 5.5 2019年5月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-05.png)
+![2019-05](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-05.png)
 
 #### 5.6 2019年6月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-06.png)
+![2019-06](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-06.png)
 
 #### 5.7 2019年7月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-07.png)
+![2019-07](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-07.png)
 
 #### 5.8 2019年8月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-08.png)
+![2019-08](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-08.png)
 
 #### 5.9 2019年9月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-09.png)
+![2019-09](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-09.png)
 
 #### 5.10 2019年10月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-10.png)
+![2019-10](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-10.png)
 
 #### 5.11 2019年11月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-11.png)
+![2019-11](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-11.png)
 
 #### 5.12 2019年12月
 
-![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-12.png)
+![2019-12](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-12.png)
 
 
 
