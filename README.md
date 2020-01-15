@@ -154,57 +154,163 @@ _此处为2019年开始代言的_
 
 #### 5.0 2019年全年
 
+```
+1. 金希澈
+2. 为什么来我家
+3. 认识的哥哥
+4. 美味的广场
+5. Somevival
+6. 熊孩子 金希澈
+```
 ![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019.png)
 
 #### 5.1 2019年1月
 
+```
+1. 首尔歌谣大战
+2. 认识的哥哥
+3. 首歌大 首尔歌谣大赏
+4. 综合
+5. 防弹少年团
+6. 首歌大 金希澈
+```
 ![2019-01](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-01.png)
 
 #### 5.2 2019年2月
 
+```
+1. 6方会谈
+2. 认识的哥哥
+3. 金希澈
+4. 人生酒馆
+5. 金希澈 韩华Q-Cells
+6. 综合
+```
 ![2019-02](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-02.png)
 
 #### 5.3 2019年3月
 
+```
+1. 人生酒馆
+2. 认识的哥哥
+3. 金希澈
+4. LA道奇队后援
+5. 认哥
+6. 综合
+```
 ![2019-03](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-03.png)
 
 #### 5.4 2019年4月
 
+```
+1. 工作室
+2. 山火灾害
+3. 江原 山火
+4. 金希澈
+5. 江原道山火
+6. Old Movie
+```
 ![2019-04](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-04.png)
 
 #### 5.5 2019年5月
 
+```
+1. 神秘厨房
+2. 为什么来我家
+3. 金希澈
+4. 认识的哥哥
+5. 综合
+6. 白钟元的神秘厨房
+```
 ![2019-05](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-05.png)
 
 #### 5.6 2019年6月
 
+```
+1. 为什么来我家
+2. Very Good的见面
+3. Somevival
+4. 游戏偶运会
+5. 昭宥 金希澈
+6. 认识的哥哥
+```
 ![2019-06](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-06.png)
 
 #### 5.7 2019年7月
 
+```
+1. 为什么来我家
+2. 认识的哥哥
+3. 金希澈
+4. 熊孩子金希澈
+5. Somevival
+6. 为什么来我家
+```
 ![2019-07](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-07.png)
 
 #### 5.8 2019年8月
 
+```
+1. 为什么来我家
+2. 金希澈
+3. 独族App
+4. momo恋爱说
+5. 认识的哥哥
+6. Twice momo
+```
 ![2019-08](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-08.png)
 
 #### 5.9 2019年9月
 
+```
+1. 金希澈
+2. 我家的熊孩子
+3. 熊孩子 金希澈
+4. 暧昧生存战
+5. 暧昧生存战 金起范
+6. 祝绪丹
+```
 ![2019-09](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-09.png)
 
 #### 5.10 2019年10月
 
+```
+1. 金希澈
+2. 认识的哥哥
+3. 认识的哥哥
+4. Super Junior
+5. 我家的熊孩子
+6. 熊孩子
+```
 ![2019-10](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-10.png)
 
 #### 5.11 2019年11月
 
+```
+1. 金希澈
+2. Somevival
+3. 美味的广场
+4. 熊孩子 金希澈
+5. 我家的熊孩子
+6. 认识的哥哥
+```
 ![2019-11](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-11.png)
 
 #### 5.12 2019年12月
 
+```
+1. 美味的广场
+2. 金希澈
+3. 广场 白钟元
+4. SBS 演艺大赏
+5. 广场 金希澈
+6. 白钟元
+```
 ![2019-12](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-12.png)
 
-
+### 6. 节目转存
+|节目名称 |密码 |
+|-------|-----|
 
 网页制作:想打想流KimHeeChul翻译组
 官方微博:想打想流KimHeeChul
