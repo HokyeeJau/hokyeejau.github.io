@@ -151,20 +151,60 @@ _此处为2019年开始代言的_
 |韩国戒烟治疗宣传大使|
 
 ### 5. 每月新闻词云
+
+#### 5.0 2019年全年
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019.png)
+
 #### 5.1 2019年1月
 
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-01.png)
 
 #### 5.2 2019年2月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-02.png)
+
 #### 5.3 2019年3月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-03.png)
+
 #### 5.4 2019年4月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-04.png)
+
 #### 5.5 2019年5月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-05.png)
+
 #### 5.6 2019年6月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-06.png)
+
 #### 5.7 2019年7月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-07.png)
+
 #### 5.8 2019年8月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-08.png)
+
 #### 5.9 2019年9月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-09.png)
+
 #### 5.10 2019年10月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-10.png)
+
 #### 5.11 2019年11月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-11.png)
+
 #### 5.12 2019年12月
+
+![2019](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/2019-12.png)
+
+
 
 网页制作:想打想流KimHeeChul翻译组
 官方微博:想打想流KimHeeChul
