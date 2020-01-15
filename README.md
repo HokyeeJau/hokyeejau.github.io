@@ -1,6 +1,7 @@
 # 2019年金希澈年终报告
 By 想打想流KimHeeChul翻译组
 
+![6-way](https://raw.githubusercontent.com/xdxl-khc/Summary2019/master/6%E6%96%B9%E4%BC%9A%E8%B0%88.png)
 ## 主要介绍内容
 1. 节目介绍
 2. 节目收视统计
